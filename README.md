@@ -42,7 +42,7 @@ This repository is dedicated to various ObjectARX practice assignments, providin
 1. **Clone the Repository:**
    - Clone this repository to your local machine using the following command:
      ```
-https://github.com/ombothe08/ObjectARX_Exercises.git
+(https://github.com/Sumit-Giri/objectARX_Assigment.git)
      ```
 2. **Navigate to Assignment Directories:**
    - Explore the specific assignment directories to access the source code and exercise files.
