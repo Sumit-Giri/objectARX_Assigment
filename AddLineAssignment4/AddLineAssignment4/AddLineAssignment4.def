@@ -1,8 +1,0 @@
-; AddLineAssignment4.def : Declares the module parameters for the DLL.
-
-LIBRARY
-
-EXPORTS
-    ; Explicit exports can go here
-       acrxEntryPoint PRIVATE
-    acrxGetApiVersion PRIVATE

@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Extra3.cpp
+D:\Sumit_Workspace\objectARX_Assigment\Extra3\Extra3\src\Extra3.cpp(77,14): error C2001: newline in constant
+D:\Sumit_Workspace\objectARX_Assigment\Extra3\Extra3\src\Extra3.cpp(78,1): error C2001: newline in constant
+D:\Sumit_Workspace\objectARX_Assigment\Extra3\Extra3\src\Extra3.cpp(179,1): error C2001: newline in constant
+D:\Sumit_Workspace\objectARX_Assigment\Extra3\Extra3\src\Extra3.cpp(180,1): error C2001: newline in constant
+D:\Sumit_Workspace\objectARX_Assigment\Extra3\Extra3\src\Extra3.cpp(77,1): error C1057: unexpected end of file in macro expansion
